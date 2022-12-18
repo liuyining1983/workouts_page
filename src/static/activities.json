@@ -3268,5 +3268,20 @@
 "average_speed": 3.1188757814178976,
 "source": "Garmin Connect",
 "streak": 3
+},
+{
+"run_id": 1671256379000,
+"name": "\u676d\u5dde\u5e02 \u8dd1\u6b65",
+"distance": 16070.054421344257,
+"moving_time": "1:19:36",
+"type": "Run",
+"start_date": "2022-12-17 05:52:59",
+"start_date_local": "2022-12-17 13:52:59",
+"location_country": "\u8fea\u5a1c\u6469\u9152\u5427, \u95fb\u6d9b\u8def, \u897f\u5174\u8857\u9053, \u6ee8\u6c5f\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310052, \u4e2d\u56fd",
+"summary_polyline": "emlwD}zs|U}C^cEmLiF{FyAu@sMyLkPkSsg@qf@uBsCcVgRoAsCqD{BkBQu[oTqEyBmNyKw{@oe@|{@fe@`NpK~]lUzClBtAJvBhAhA`At@nBzV~RpFnGrb@la@rRxUtUbUzL`]bC|IlDtHjD|DfMnc@j@VvBc@`A|B@v@}AjBPlArAfEjB`ChE`K|@`FhFjPpDvGiDgGsF{P}@sEkEoK}AkBiBqF?kA|AmBs@iCuDAyJ{ZwA_HyCkD_F{KgBaIlAk@p@Xp@_B",
+"average_heartrate": 152.0,
+"average_speed": 3.3647517632630355,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
