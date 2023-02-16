@@ -3358,5 +3358,20 @@
 "average_speed": 1.4177105072136835,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1676462401000,
+"name": "\u676d\u5dde\u5e02 \u8dd1\u6b65",
+"distance": 5542.137381031701,
+"moving_time": "0:32:36",
+"type": "Run",
+"start_date": "2023-02-15 12:00:01",
+"start_date_local": "2023-02-15 20:00:01",
+"location_country": "\u8fea\u5a1c\u6469\u9152\u5427, \u95fb\u6d9b\u8def, \u897f\u5174\u8857\u9053, \u6ee8\u6c5f\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310052, \u4e2d\u56fd",
+"summary_polyline": "knlwDg{s|UqCd@wE}LwVmUmQoTsc@qb@oEmF{V_Se@iABb@~VhShCjDff@he@nQfTvWpW",
+"average_heartrate": 140.0,
+"average_speed": 2.833403569034612,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
