@@ -4093,5 +4093,20 @@
 "average_speed": 3.100378915830192,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1687211259000,
+"name": "\u676d\u5dde\u5e02 - E60min 6ST",
+"distance": 10219.686988648511,
+"moving_time": "1:07:50",
+"type": "Run",
+"start_date": "2023-06-19 21:47:39",
+"start_date_local": "2023-06-20 05:47:39",
+"location_country": "\u6ee8\u76db\u8def, \u4e2d\u5174\u793e\u533a, \u957f\u6cb3\u8857\u9053, \u6ee8\u6c5f\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310052, \u4e2d\u56fd",
+"summary_polyline": "ctkwDg}s|UyPlJuA@cApAcAJsCkGwEmOqT{SmR{UiJqIm@sAwJuH_TmTmTeQ}BmDmD_CwBSwa@_XoDqCk@yBb@jAUV}GqFqK{FvJpF~NbL`b@dXlBNvD`CjApC~V~RxCvDpe@nd@rPnSbUlTdAlAjEvKlDc@xC|GbF{Cb@@nAjBhGcD",
+"average_heartrate": 128.0,
+"average_speed": 2.510979604090543,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
