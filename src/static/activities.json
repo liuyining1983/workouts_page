@@ -4213,5 +4213,20 @@
 "average_speed": 2.743428353785607,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1689371242000,
+"name": "\u676d\u5dde\u5e02 \u8dd1\u6b65",
+"distance": 12383.880124867166,
+"moving_time": "1:22:45",
+"type": "Run",
+"start_date": "2023-07-14 21:47:22",
+"start_date_local": "2023-07-15 05:47:22",
+"location_country": "Palace 11, \u6c5f\u6656\u8def, \u4e2d\u5174\u793e\u533a, \u957f\u6cb3\u8857\u9053, \u6ee8\u6c5f\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310052, \u4e2d\u56fd",
+"summary_polyline": "mtjwDamt|UhJqC|@RjFnNdCpE]n@t@jADfCkAjKpB~B|Am@|@Fp@y@zAWn@yBfAmA`B{EdCsM|B_Ff@{DxCuErF_SBeAx@wAh@oM`@Q~@yH[k@{BHzB?Xx@mDd[aH`UsB~BsBpJgAtAmCfN{AhEiApAk@dGsCfGw@nHeC|JgAdA}PxHsAN}CtBu@CaE~AuH`EyCd@yJo[mAiGwCgDsEsIoP_h@_F}FmNyLuQeUyI}HeBeCpLtLpR~U~EvEzPhLvAlEfAx@|@jCfBvAn@xBbC_AxAuA~@Cn@vB{GdC]kAP]pEcDt@f@q@s@gFnDbFiDaFlDbD_Bz@kAgBnAX`@",
+"average_heartrate": 134.0,
+"average_speed": 2.4942356746963075,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
